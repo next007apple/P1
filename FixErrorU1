@@ -1,0 +1,3 @@
+(@@fixerror,EHDD,format disk)
+>chkdsk [your drive name]: /f /r
+#NoteProblem,insert in ubuntu;
